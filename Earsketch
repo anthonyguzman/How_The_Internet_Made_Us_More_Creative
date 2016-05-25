@@ -1,1 +1,17 @@
+#		python code
+#		script_name: Creativity
+#
+#		author: Anthony, Javier
+#		description: Creativity, this relates to me because it reminds me of anticipation, when im working on something.
+#
 
+from earsketch import * 
+
+init() 
+setTempo(120) 
+
+fitMedia(ELECTRO_ANALOGUE_BASS_009, 1, 1, 2)
+fitMedia(ELECTRO_ANALOGUE_BASS_010, 2, 2, 3)
+
+
+finish() 
